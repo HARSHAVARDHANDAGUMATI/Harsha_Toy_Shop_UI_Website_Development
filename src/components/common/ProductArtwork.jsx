@@ -17,9 +17,11 @@ const ProductArtwork = ({ product, className = '', compact = false }) => {
                 {product.category}
               </span>
             )}
-            <span className="rounded-full bg-slate-950/45 px-2.5 py-1 text-[10px] font-medium text-white shadow-lg backdrop-blur-md sm:px-3 sm:text-xs">
-              {product.ageGroup}
-            </span>
+            {compact ? <span /> : (
+              <span className="rounded-full bg-slate-950/45 px-2.5 py-1 text-[10px] font-medium text-white shadow-lg backdrop-blur-md sm:px-3 sm:text-xs">
+                {product.ageGroup}
+              </span>
+            )}
           </div>
           <div className="space-y-2">
             <p className={`${compact ? 'max-w-[12rem] text-[11px] sm:max-w-[14rem] sm:text-xs' : 'max-w-[15rem] text-xs sm:max-w-[18rem] sm:text-sm'} font-semibold text-white drop-shadow-[0_2px_10px_rgba(0,0,0,0.45)]`}>
@@ -46,9 +48,11 @@ const ProductArtwork = ({ product, className = '', compact = false }) => {
               {product.category}
             </span>
           )}
-          <span className="rounded-full bg-slate-950/20 px-2.5 py-1 text-[10px] font-medium sm:px-3 sm:text-xs">
-            {product.ageGroup}
-          </span>
+          {compact ? <span /> : (
+            <span className="rounded-full bg-slate-950/20 px-2.5 py-1 text-[10px] font-medium sm:px-3 sm:text-xs">
+              {product.ageGroup}
+            </span>
+          )}
         </div>
         <div className="space-y-2">
           <div

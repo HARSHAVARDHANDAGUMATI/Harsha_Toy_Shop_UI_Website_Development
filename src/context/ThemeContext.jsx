@@ -5,7 +5,7 @@ import { STORAGE_KEYS } from '../utils/constants'
 export const ThemeContext = createContext(null)
 
 export const ThemeProvider = ({ children }) => {
-  const [theme, setTheme] = useLocalStorage(STORAGE_KEYS.theme, 'light')
+  const [theme, setTheme] = useLocalStorage(STORAGE_KEYS.theme, 'dark')
 
   useLayoutEffect(() => {
     const root = document.documentElement
