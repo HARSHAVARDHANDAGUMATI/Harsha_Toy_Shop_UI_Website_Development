@@ -1,0 +1,446 @@
+[
+  {
+    "id": 1,
+    "slug": "rocket-racers-track-set",
+    "name": "Rocket Racers Track Set",
+    "category": "Vehicles",
+    "ageGroup": "5+",
+    "price": 32.99,
+    "originalPrice": 42.99,
+    "rating": 4.8,
+    "reviews": 128,
+    "stock": 18,
+    "isFeatured": true,
+    "isTrending": true,
+    "isNew": false,
+    "badge": "18% OFF",
+    "offer": "Weekend Flash Deal",
+    "description": "Build looping tracks, launch magnetic racers, and create wild space-speed challenges with a set designed for fast hands and faster imaginations.",
+    "highlights": [
+      "48 snap-fit track pieces",
+      "2 glow racers included",
+      "Tool-free assembly"
+    ],
+    "tags": [
+      "cars",
+      "racing",
+      "giftable"
+    ],
+    "colors": [
+      "#ff7a59",
+      "#ffd166",
+      "#7c3aed"
+    ],
+    "dimensions": "38 x 24 x 8 cm",
+    "material": "ABS plastic",
+    "safety": "BPA free and rounded edges",
+    "image": "/images/products/rocket-racers-track-set.png"
+  },
+  {
+    "id": 2,
+    "slug": "dreamy-dino-plush",
+    "name": "Dreamy Dino Plush",
+    "category": "Soft Toys",
+    "ageGroup": "3+",
+    "price": 18.5,
+    "originalPrice": 24,
+    "rating": 4.9,
+    "reviews": 214,
+    "stock": 34,
+    "isFeatured": true,
+    "isTrending": false,
+    "isNew": true,
+    "badge": "NEW",
+    "offer": "Bundle with bedtime lamp",
+    "description": "A velvety pastel dinosaur plush with squishy filling, stitched details, and a calm bedtime personality kids love to hug.",
+    "highlights": [
+      "Ultra-soft premium fabric",
+      "Machine washable shell",
+      "Lightweight cuddle size"
+    ],
+    "tags": [
+      "plush",
+      "bedtime",
+      "comfort"
+    ],
+    "colors": [
+      "#5eead4",
+      "#67e8f9",
+      "#0f766e"
+    ],
+    "dimensions": "28 x 18 x 12 cm",
+    "material": "Plush cotton blend",
+    "safety": "Embroidered eyes and child-safe stitching",
+    "image": "/images/products/dreamy-dino-plush.png"
+  },
+  {
+    "id": 3,
+    "slug": "magnet-master-builder-kit",
+    "name": "Magnet Master Builder Kit",
+    "category": "STEM",
+    "ageGroup": "6+",
+    "price": 44.99,
+    "originalPrice": 54.99,
+    "rating": 4.7,
+    "reviews": 172,
+    "stock": 15,
+    "isFeatured": true,
+    "isTrending": true,
+    "isNew": false,
+    "badge": "Top Pick",
+    "offer": "Free idea cards",
+    "description": "Mix geometric magnetic tiles to engineer castles, bridges, and glowing towers while learning balance, symmetry, and design thinking.",
+    "highlights": [
+      "72 magnetic pieces",
+      "Idea booklet included",
+      "STEM play approved"
+    ],
+    "tags": [
+      "builder",
+      "logic",
+      "creative"
+    ],
+    "colors": [
+      "#34d399",
+      "#a7f3d0",
+      "#065f46"
+    ],
+    "dimensions": "31 x 26 x 7 cm",
+    "material": "Food-grade ABS with sealed magnets",
+    "safety": "Impact tested and easy-grip edges",
+    "image": "/images/products/magnet-master-builder-kit.png"
+  },
+  {
+    "id": 4,
+    "slug": "cosmic-art-lab",
+    "name": "Cosmic Art Lab",
+    "category": "Creative",
+    "ageGroup": "7+",
+    "price": 27.25,
+    "originalPrice": 35,
+    "rating": 4.6,
+    "reviews": 94,
+    "stock": 22,
+    "isFeatured": false,
+    "isTrending": true,
+    "isNew": false,
+    "badge": "22% OFF",
+    "offer": "Glitter pens included",
+    "description": "An art kit packed with neon markers, metallic stickers, stencils, and galaxy cards to inspire bright, bold after-school creations.",
+    "highlights": [
+      "60-piece creative kit",
+      "Reusable stencil sheets",
+      "Mess-friendly storage tray"
+    ],
+    "tags": [
+      "art",
+      "craft",
+      "neon"
+    ],
+    "colors": [
+      "#f472b6",
+      "#fb7185",
+      "#831843"
+    ],
+    "dimensions": "36 x 22 x 5 cm",
+    "material": "Mixed paper and washable ink",
+    "safety": "Non-toxic ink formula",
+    "image": "/images/products/cosmic-art-lab.png"
+  },
+  {
+    "id": 5,
+    "slug": "mini-market-play-cart",
+    "name": "Mini Market Play Cart",
+    "category": "Pretend Play",
+    "ageGroup": "4+",
+    "price": 39.75,
+    "originalPrice": 49.75,
+    "rating": 4.8,
+    "reviews": 143,
+    "stock": 11,
+    "isFeatured": true,
+    "isTrending": false,
+    "isNew": false,
+    "badge": "Best Seller",
+    "offer": "Comes with 18 accessories",
+    "description": "Roll through pretend shopping trips with a mini cart, play groceries, and a cheerful checkout setup for social and imaginative play.",
+    "highlights": [
+      "Foldable mini cart",
+      "18 pretend groceries",
+      "Durable wheels"
+    ],
+    "tags": [
+      "pretend",
+      "roleplay",
+      "social"
+    ],
+    "colors": [
+      "#f97316",
+      "#fdba74",
+      "#7c2d12"
+    ],
+    "dimensions": "42 x 24 x 48 cm",
+    "material": "Reinforced plastic and fabric",
+    "safety": "Stable base with smooth corners",
+    "image": "/images/products/mini-market-play-cart.png"
+  },
+  {
+    "id": 6,
+    "slug": "puzzle-planet-100",
+    "name": "Puzzle Planet 100",
+    "category": "Puzzles",
+    "ageGroup": "8+",
+    "price": 16.99,
+    "originalPrice": 21.99,
+    "rating": 4.5,
+    "reviews": 87,
+    "stock": 29,
+    "isFeatured": false,
+    "isTrending": false,
+    "isNew": true,
+    "badge": "NEW",
+    "offer": "Travel pouch inside",
+    "description": "A colorful 100-piece world puzzle with landmark facts, bright illustrations, and sturdy pieces designed for repeat play.",
+    "highlights": [
+      "100 thick-cut pieces",
+      "Map facts on back panel",
+      "Portable pouch included"
+    ],
+    "tags": [
+      "puzzle",
+      "travel",
+      "learning"
+    ],
+    "colors": [
+      "#60a5fa",
+      "#bfdbfe",
+      "#1d4ed8"
+    ],
+    "dimensions": "25 x 25 x 5 cm",
+    "material": "Laminated board",
+    "safety": "Soy-based print coating",
+    "image": "/images/products/puzzle-planet-100.png"
+  },
+  {
+    "id": 7,
+    "slug": "whiz-bot-coding-pal",
+    "name": "Whiz Bot Coding Pal",
+    "category": "STEM",
+    "ageGroup": "9+",
+    "price": 58.99,
+    "originalPrice": 69.99,
+    "rating": 4.9,
+    "reviews": 156,
+    "stock": 9,
+    "isFeatured": true,
+    "isTrending": true,
+    "isNew": false,
+    "badge": "Editor Choice",
+    "offer": "Free challenge cards",
+    "description": "Program screen-free robot missions with directional tiles, sound prompts, and upgrade packs that keep curious builders engaged.",
+    "highlights": [
+      "40 programmable missions",
+      "Rechargeable base unit",
+      "Screen-free coding logic"
+    ],
+    "tags": [
+      "robot",
+      "coding",
+      "logic"
+    ],
+    "colors": [
+      "#38bdf8",
+      "#22d3ee",
+      "#0f172a"
+    ],
+    "dimensions": "30 x 22 x 9 cm",
+    "material": "ABS shell and silicone buttons",
+    "safety": "Certified low-voltage charging",
+    "image": "/images/products/whiz-bot-coding-pal.png"
+  },
+  {
+    "id": 8,
+    "slug": "sparkle-princess-castle",
+    "name": "Sparkle Princess Castle",
+    "category": "Dolls",
+    "ageGroup": "5+",
+    "price": 47.49,
+    "originalPrice": 59.99,
+    "rating": 4.7,
+    "reviews": 119,
+    "stock": 13,
+    "isFeatured": false,
+    "isTrending": true,
+    "isNew": false,
+    "badge": "Save 20%",
+    "offer": "Includes LED throne room",
+    "description": "A fold-open play castle with glowing rooms, dress-up furniture, and royal accessories for magical storytelling sessions.",
+    "highlights": [
+      "3 fold-out rooms",
+      "LED lights included",
+      "Furniture and accessories"
+    ],
+    "tags": [
+      "castle",
+      "dollhouse",
+      "fantasy"
+    ],
+    "colors": [
+      "#c084fc",
+      "#f0abfc",
+      "#7e22ce"
+    ],
+    "dimensions": "46 x 13 x 34 cm",
+    "material": "Plastic, fabric, and LED module",
+    "safety": "Secure battery compartment",
+    "image": "/images/products/sparkle-princess-castle.png"
+  },
+  {
+    "id": 9,
+    "slug": "jungle-jump-ball-pit",
+    "name": "Jungle Jump Ball Pit",
+    "category": "Outdoor",
+    "ageGroup": "3+",
+    "price": 29.99,
+    "originalPrice": 38.99,
+    "rating": 4.4,
+    "reviews": 73,
+    "stock": 20,
+    "isFeatured": false,
+    "isTrending": false,
+    "isNew": false,
+    "badge": "Playtime Deal",
+    "offer": "50 soft balls included",
+    "description": "Pop up a playful jungle-themed ball pit in seconds for indoor or patio fun, complete with breathable mesh sides.",
+    "highlights": [
+      "Instant pop-up design",
+      "50 colorful balls",
+      "Storage bag included"
+    ],
+    "tags": [
+      "active",
+      "playpen",
+      "toddler"
+    ],
+    "colors": [
+      "#facc15",
+      "#86efac",
+      "#166534"
+    ],
+    "dimensions": "90 x 90 x 35 cm",
+    "material": "Polyester mesh and spring frame",
+    "safety": "Soft-touch ball material",
+    "image": "/images/products/jungle-jump-ball-pit.png"
+  },
+  {
+    "id": 10,
+    "slug": "melody-makers-keyboard",
+    "name": "Melody Makers Keyboard",
+    "category": "Music",
+    "ageGroup": "6+",
+    "price": 34.5,
+    "originalPrice": 41.5,
+    "rating": 4.6,
+    "reviews": 102,
+    "stock": 17,
+    "isFeatured": true,
+    "isTrending": false,
+    "isNew": true,
+    "badge": "NEW",
+    "offer": "Recording mode unlocked",
+    "description": "Introduce little musicians to rhythm and melody with demo songs, playful sound effects, and a light-up teaching mode.",
+    "highlights": [
+      "32 mini keys",
+      "Demo, record, playback",
+      "Adjustable volume"
+    ],
+    "tags": [
+      "music",
+      "sound",
+      "learning"
+    ],
+    "colors": [
+      "#fb7185",
+      "#fda4af",
+      "#881337"
+    ],
+    "dimensions": "44 x 16 x 6 cm",
+    "material": "Plastic chassis with speaker mesh",
+    "safety": "Safe-volume child mode",
+    "image": "/images/products/melody-makers-keyboard.png"
+  },
+  {
+    "id": 11,
+    "slug": "sky-patrol-drone-lite",
+    "name": "Sky Patrol Drone Lite",
+    "category": "Electronics",
+    "ageGroup": "10+",
+    "price": 64.99,
+    "originalPrice": 79.99,
+    "rating": 4.5,
+    "reviews": 67,
+    "stock": 7,
+    "isFeatured": false,
+    "isTrending": true,
+    "isNew": false,
+    "badge": "Limited Stock",
+    "offer": "Extra propeller set",
+    "description": "A beginner-friendly mini drone with hover assist, simple controls, and soft prop guards for supervised first flights.",
+    "highlights": [
+      "One-touch takeoff",
+      "Altitude hold assist",
+      "Protective prop guards"
+    ],
+    "tags": [
+      "drone",
+      "tech",
+      "outdoor"
+    ],
+    "colors": [
+      "#93c5fd",
+      "#e0f2fe",
+      "#1e3a8a"
+    ],
+    "dimensions": "24 x 24 x 7 cm",
+    "material": "Lightweight polymer shell",
+    "safety": "For supervised outdoor use",
+    "image": "/images/products/sky-patrol-drone-lite.png"
+  },
+  {
+    "id": 12,
+    "slug": "storybook-shadow-theater",
+    "name": "Storybook Shadow Theater",
+    "category": "Creative",
+    "ageGroup": "6+",
+    "price": 22.99,
+    "originalPrice": 29.99,
+    "rating": 4.8,
+    "reviews": 88,
+    "stock": 25,
+    "isFeatured": false,
+    "isTrending": false,
+    "isNew": true,
+    "badge": "Just In",
+    "offer": "Includes 12 story scenes",
+    "description": "Create cozy bedtime performances with a folding shadow stage, character cutouts, and a warm mini projector lamp.",
+    "highlights": [
+      "Folding theater stage",
+      "12 themed scene cards",
+      "Warm projector light"
+    ],
+    "tags": [
+      "storytelling",
+      "creative",
+      "family"
+    ],
+    "colors": [
+      "#f59e0b",
+      "#fde68a",
+      "#78350f"
+    ],
+    "dimensions": "32 x 21 x 6 cm",
+    "material": "Cardboard, plastic, and LED light",
+    "safety": "Low-heat battery light",
+    "image": "/images/products/storybook-shadow-theater.png"
+  }
+]
